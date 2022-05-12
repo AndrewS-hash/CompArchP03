@@ -1,0 +1,21 @@
+
+
+RISC-V RV32IM Single Cycle CPU, (C) Copyright 2018-2022, Mong
+
+2022-04-01 12:21:28
+
+File: C:\Users\lazer\OneDrive\Desktop\Spring 2022\CS4200-002\Homework\HW5\HW05.bin : size = 3234 bytes
+
+Iterative Factorial of 6! = 720
+Recursive Factorial of 6! = 720
+Iterative Power of 2^6 = 64
+Recursive Power of 2^6 = 64 2022-04-01 12:21:28
+
+
+   Program Statistics
+   ------------------
+   Number of Clock Cycle(s)       = 5803
+   Number of Branch-Not-Taken(s)  = 604
+   Number of Branch-Taken(s)      = 0
+   Number of JAL(s)               = 315
+   Number of JALR(s)              = 146

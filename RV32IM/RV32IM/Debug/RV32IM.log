@@ -1,0 +1,26 @@
+﻿  DebuggerMain.cpp
+C:\Users\lazer\OneDrive\Desktop\Spring 2022\CS4200-002\Projects\P03\RV32IM\Debugger\DebuggerMain.cpp(385,11): warning C4476: 'printf' : unknown type field character 'b' in format specifier
+C:\Users\lazer\OneDrive\Desktop\Spring 2022\CS4200-002\Projects\P03\RV32IM\Debugger\DebuggerMain.cpp(385,11): warning C4778: 'printf' : unterminated format string '%b'
+C:\Users\lazer\OneDrive\Desktop\Spring 2022\CS4200-002\Projects\P03\RV32IM\Debugger\DebuggerMain.cpp(385,103): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\lazer\OneDrive\Desktop\Spring 2022\CS4200-002\Projects\P03\RV32IM\Debugger\DebuggerMain.cpp(385,103): message : placeholders and their parameters expect 0 variadic arguments, but 3 were provided
+C:\Users\lazer\OneDrive\Desktop\Spring 2022\CS4200-002\Projects\P03\RV32IM\Debugger\DebuggerMain.cpp(452,11): warning C4476: 'printf' : unknown type field character 'b' in format specifier
+C:\Users\lazer\OneDrive\Desktop\Spring 2022\CS4200-002\Projects\P03\RV32IM\Debugger\DebuggerMain.cpp(452,11): warning C4778: 'printf' : unterminated format string '%b'
+C:\Users\lazer\OneDrive\Desktop\Spring 2022\CS4200-002\Projects\P03\RV32IM\Debugger\DebuggerMain.cpp(452,98): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\lazer\OneDrive\Desktop\Spring 2022\CS4200-002\Projects\P03\RV32IM\Debugger\DebuggerMain.cpp(452,98): message : placeholders and their parameters expect 0 variadic arguments, but 3 were provided
+C:\Users\lazer\OneDrive\Desktop\Spring 2022\CS4200-002\Projects\P03\RV32IM\Debugger\DebuggerMain.cpp(488,11): warning C4476: 'printf' : unknown type field character 'b' in format specifier
+C:\Users\lazer\OneDrive\Desktop\Spring 2022\CS4200-002\Projects\P03\RV32IM\Debugger\DebuggerMain.cpp(488,11): warning C4778: 'printf' : unterminated format string '%b'
+C:\Users\lazer\OneDrive\Desktop\Spring 2022\CS4200-002\Projects\P03\RV32IM\Debugger\DebuggerMain.cpp(488,98): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\lazer\OneDrive\Desktop\Spring 2022\CS4200-002\Projects\P03\RV32IM\Debugger\DebuggerMain.cpp(488,98): message : placeholders and their parameters expect 0 variadic arguments, but 3 were provided
+C:\Users\lazer\OneDrive\Desktop\Spring 2022\CS4200-002\Projects\P03\RV32IM\Debugger\DebuggerMain.cpp(517,11): warning C4476: 'printf' : unknown type field character 'b' in format specifier
+C:\Users\lazer\OneDrive\Desktop\Spring 2022\CS4200-002\Projects\P03\RV32IM\Debugger\DebuggerMain.cpp(517,11): warning C4778: 'printf' : unterminated format string '%b'
+C:\Users\lazer\OneDrive\Desktop\Spring 2022\CS4200-002\Projects\P03\RV32IM\Debugger\DebuggerMain.cpp(517,98): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\lazer\OneDrive\Desktop\Spring 2022\CS4200-002\Projects\P03\RV32IM\Debugger\DebuggerMain.cpp(517,98): message : placeholders and their parameters expect 0 variadic arguments, but 3 were provided
+C:\Users\lazer\OneDrive\Desktop\Spring 2022\CS4200-002\Projects\P03\RV32IM\Debugger\DebuggerMain.cpp(534,11): warning C4476: 'printf' : unknown type field character 'b' in format specifier
+C:\Users\lazer\OneDrive\Desktop\Spring 2022\CS4200-002\Projects\P03\RV32IM\Debugger\DebuggerMain.cpp(534,11): warning C4778: 'printf' : unterminated format string '%b'
+C:\Users\lazer\OneDrive\Desktop\Spring 2022\CS4200-002\Projects\P03\RV32IM\Debugger\DebuggerMain.cpp(534,98): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\lazer\OneDrive\Desktop\Spring 2022\CS4200-002\Projects\P03\RV32IM\Debugger\DebuggerMain.cpp(534,98): message : placeholders and their parameters expect 0 variadic arguments, but 3 were provided
+C:\Users\lazer\OneDrive\Desktop\Spring 2022\CS4200-002\Projects\P03\RV32IM\Debugger\DebuggerMain.cpp(561,11): warning C4476: 'printf' : unknown type field character 'b' in format specifier
+C:\Users\lazer\OneDrive\Desktop\Spring 2022\CS4200-002\Projects\P03\RV32IM\Debugger\DebuggerMain.cpp(561,11): warning C4778: 'printf' : unterminated format string '%b'
+C:\Users\lazer\OneDrive\Desktop\Spring 2022\CS4200-002\Projects\P03\RV32IM\Debugger\DebuggerMain.cpp(561,97): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\lazer\OneDrive\Desktop\Spring 2022\CS4200-002\Projects\P03\RV32IM\Debugger\DebuggerMain.cpp(561,97): message : placeholders and their parameters expect 0 variadic arguments, but 3 were provided
+  RV32IM.vcxproj -> C:\Users\lazer\OneDrive\Desktop\Spring 2022\CS4200-002\Projects\P03\RV32IM\Debug\RV32IM.exe
